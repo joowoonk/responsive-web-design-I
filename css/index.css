@@ -79,6 +79,13 @@ nav.navigation{
 	margin: 3% 0;
 
 }
+nav.navigation1{
+	display: flex;
+	justify-content: space-around;
+	align-items: flex-end;
+	margin: 3% 0;
+
+}
 a{
 	text-decoration: none;
 	color: grey;
@@ -203,7 +210,16 @@ li {
 		align-items: center;
 		margin: 0 0;
 		margin-left: -63%;
-
+	}
+	.logo1{
+		text-align: center;
+		margin: auto;
+	}
+	nav.navigation1{
+        display: flex;
+		flex-direction: column;
+		align-items: center;
+		margin: 0 0;
 	}
 	.services1{
 		margin-top: 2%;
@@ -217,10 +233,6 @@ li {
 		border-bottom: 1px solid grey;
 		order: 1;	
 
-	}
-	.logo{
-		/* margin: -320px 0 360px  */
-		
 	}
 	a.services{
 		border-top: 1px solid grey;
@@ -280,9 +292,6 @@ li {
 	}
 	
 	.first-title-section{
-		display: block;
-		margin: 0 0 0 30%;
-		width: 100%
 	}
 	.main-title{
 		display: block;
@@ -338,9 +347,18 @@ li {
 		flex-wrap: wrap;
 		width:95%;
 	}
+	.navigation1{
+		display: flex;
+		flex-wrap: wrap;
+		width:95%;
+	}
 	.logo{
 		text-align: center;
 		margin: 3% 100% 5% 100%;
+	}
+	.logo1{
+		text-align: center;
+		margin: auto;
 	}
 	.picture{
 		display:none;
