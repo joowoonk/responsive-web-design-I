@@ -209,8 +209,9 @@ li {
 		flex-direction: column;
 		align-items: center;
 		margin: 0 0;
-		margin-left: -63%;
+		margin-left: -65%;
 	}
+	
 	.logo1{
 		text-align: center;
 		margin: auto;
@@ -220,6 +221,7 @@ li {
 		flex-direction: column;
 		align-items: center;
 		margin: 0 0;
+		margin-left: -65%;
 	}
 	.services1{
 		margin-top: 2%;
@@ -354,11 +356,11 @@ li {
 	}
 	.logo{
 		text-align: center;
-		margin: 3% 100% 5% 100%;
+		margin: 5% 100%;
 	}
 	.logo1{
 		text-align: center;
-		margin: auto;
+		margin: 5% 100%;
 	}
 	.picture{
 		display:none;
