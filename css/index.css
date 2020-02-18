@@ -373,6 +373,9 @@ li {
 	.main-title{
 		margin-left: 10%;
 	}
+	.box{
+		margin: 3% 3%;
+	}
 	a {
 		order: 1;
 		justify-content: space-around;
